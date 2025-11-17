@@ -1,4 +1,4 @@
-# **E-commerce Orders Data Analysis — Nettoyage, Fusion et Visualisation**
+# 🛒 **E-commerce Orders Data Analysis — Nettoyage, Fusion et Visualisation**
 
 Ce projet analyse un ensemble de données e-commerce comprenant **les commandes**, **les paiements** et **les clients**.
 L’objectif est d’extraire des insights utiles sur les comportements d’achat, les modes de paiement, les revenus mensuels et les tendances clients.
