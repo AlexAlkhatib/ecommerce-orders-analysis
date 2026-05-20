@@ -121,13 +121,13 @@ ecommerce_orders_analysis/
 
 ## 🧠 Compétences démontrées
 
-✔ Manipulation avancée de pandas (merge, groupby, filtering)
-✔ Nettoyage de données réel (missing values, duplicates)
-✔ Feature engineering (création de champs temporels)
-✔ Visualisation professionnelle (courbes, bar charts empilés, subplot, scatter)
-✔ Analyse des comportements d’achat
-✔ Construction d’un dataset consolidé multi-sources
-✔ Préparation des données pour BI / machine learning
+- ✔ Manipulation avancée de pandas (merge, groupby, filtering)
+- ✔ Nettoyage de données réel (missing values, duplicates)
+- ✔ Feature engineering (création de champs temporels)
+- ✔ Visualisation professionnelle (courbes, bar charts empilés, subplot, scatter)
+- ✔ Analyse des comportements d’achat
+- ✔ Construction d’un dataset consolidé multi-sources
+- ✔ Préparation des données pour BI / machine learning
 
 
 ## 🔧 Pistes d’amélioration
